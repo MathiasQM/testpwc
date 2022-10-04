@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/testpwc/static/css/main.073c9b0a.css",
+    "main.js": "/testpwc/static/js/main.994568f8.js",
+    "static/js/787.0c3f432a.chunk.js": "/testpwc/static/js/787.0c3f432a.chunk.js",
+    "service-worker.js": "/testpwc/service-worker.js",
+    "static/media/logo.svg": "/testpwc/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/testpwc/index.html",
+    "main.073c9b0a.css.map": "/testpwc/static/css/main.073c9b0a.css.map",
+    "main.994568f8.js.map": "/testpwc/static/js/main.994568f8.js.map",
+    "787.0c3f432a.chunk.js.map": "/testpwc/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.994568f8.js"
+  ]
+}
